@@ -14,11 +14,9 @@ Built for the **\*\*Insigra Reports Junior Developer Internship practical assign
 
 \|---|---|
 
-\| **\*\*Live app\*\***   | https\://YOUR-VERCEL-URL.vercel.app |
+\| **\*\*Live app\*\***   | https://market-isolation-insigra.vercel.app/ |
 
-\| **\*\*Repository\*\*** | https\://github.com/YashRajCs23/marketing-isolation-Insigra |
-
-\| **\*\*Demo video\*\*** | YOUR-LOOM-OR-DRIVE-LINK |
+\| **\*\*Repository\*\*** | https://github.com/YashRajCs23/market-isolation-Insigra |
 
 \| **\*\*Test users\*\*** | \`alpha\@test.com\` (Alpha Ltd), \`beta\@test.com\` (Beta Ltd). Passwords were sent to Insigra separately and are not stored in this repo. |
 
@@ -676,20 +674,6 @@ Authentication answers *\*who are you?\**; authorization answers *\*what may you
 
 **---**
 
-
-
-**## 📋 Submission Notes
-
-For the internship submission, provide the following separately:
-
-1. **Live Vercel URL**
-2. **Alpha and Beta test passwords**
-3. **3-minute screen recording** showing Alpha login → Beta login → Supabase RLS policy
-4. **Three-line difficulty/improvement reflection**
-
-Passwords and server-side secrets should never be committed to this repository.
-
----
 
 ## 👨‍💻 Author**
 
